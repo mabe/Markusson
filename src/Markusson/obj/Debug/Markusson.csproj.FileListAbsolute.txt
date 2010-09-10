@@ -1,0 +1,12 @@
+C:\Files\Markusson\Markusson\bin\Markusson.dll
+C:\Files\Markusson\Markusson\bin\Markusson.pdb
+C:\Files\Markusson\Markusson\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Markusson\Markusson\obj\Debug\Markusson.dll
+C:\Files\Markusson\Markusson\obj\Debug\Markusson.pdb
+C:\Files\Markusson\src\Markusson\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Markusson\src\Markusson\obj\Debug\Markusson.dll
+C:\Files\Markusson\src\Markusson\obj\Debug\Markusson.pdb
+C:\Files\Markusson\src\Markusson\bin\Markusson.dll
+C:\Files\Markusson\src\Markusson\bin\Markusson.pdb
+C:\Files\Markusson\src\Markusson\bin\Raven.Client-3.5.dll
+C:\Files\Markusson\src\Markusson\bin\Newtonsoft.Json.dll
